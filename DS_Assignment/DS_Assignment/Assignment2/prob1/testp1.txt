@@ -1,0 +1,10 @@
+visit https://www.google.com/url?sa=E&source=gmail&q=google.com
+visit wikipedia.org
+visit youtube.com
+back
+back
+forward
+visit facebook.com
+back
+forward
+forward
